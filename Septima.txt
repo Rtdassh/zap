@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>Tipos de input</title>	
+	<head/>
+
+	<body>
+		<form>
+			<div>
+				<label for = "masculino"> <input type = "radio" name = "caja"> Masculino</label>
+				<label for = "femenino"> <input type = "radio" name = "caja"> Femenino</label>
+			</div>
+		</form>
+	</body>
+</html>

@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+body {
+	font-family: 'Comfortaa', cursive;
+	font-family: 'Righteous', cursive;
+	background-color: #04724D;
+	color:#B8DBD9;
+}
+
+#parrafo{
+    height: 350px;
+    background-color: #F4F4F9;
+    padding: 20px;
+    border-radius:15px;  
+    display: flex;
+}
+
+#parrafoDos{
+    height: 100px;
+    background-color: #F4F4F9;
+    padding: 20px;
+    border-radius:15px;
+    display: flex;    
+}
+
+#parrafoTres{
+    height: 200px;
+    background-color: #F4F4F9;
+    padding: 20px;
+    border-radius:15px;  
+    display: flex;
+}
+
+#subtitulo{
+	color:#46494c;
+	font-size: 25px;
+	font-family: 'Barlow', sans-serif;
+}
+
+
+#img-1{
+	width: 270px;
+	padding: 10px;
+	border-radius:20px;
+	float:right;
+}
+
+#img-2{
+	width: 170px;
+	padding: 10px;
+	border-radius:20px;
+	float:left;
+}
+
+#final{
+	text-align:right;
+}
+ 
+#imagenes{
+}
+
+#texto{
+	text-align:left;
+}
+
+.caja {
+	margin-top:60px;
+	border-radius: 5px;
+	padding: 20px 20px;
+	height: 925px;
+	background-color: #ef476f;
+}
+
+.paginas{
+	margin-top:60px;
+	border-radius: 5px;
+	padding: 20px 20px;
+	height: 200px;
+	background-color: #ef476f;
+}
+
+.segundoTitulo{
+	text-align:center;
+	font-weight: bold;
+	font-size: 40px;
+
+}
+
+#registro{
+	
+	color:#46494c;
+	font-size: 25px;
+	font-family: 'Barlow', sans-serif;
+	padding: 20px;
+}
+
